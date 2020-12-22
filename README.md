@@ -13,3 +13,5 @@ Now just watch and be amazed by the true magic of well written software.
 
 
 (It should somehow look like this:)
+
+![alt text](https://cdn.sparkfun.com/assets/learn_tutorials/7/8/3/terminal_12.png)
