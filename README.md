@@ -10,3 +10,6 @@ You should now be able to write python code, and here is where the wonderfully d
 
 Copy the code from the HelloWorld.py file into your command line and hit enter.
 Now just watch and be amazed by the true magic of well written software.
+
+
+(It should somehow look like this:)
